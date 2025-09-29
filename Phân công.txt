@@ -1,4 +1,4 @@
-***** Phần Genetic khá khó nên ai muốn làm thì làm. *****
+***** Phần Genetic Algorithm for the n-Queens problem với Genetic Algorithm for TSP khá khó nên ai muốn làm thì làm. *****
 
 Tài: [The n-Queens Problem](n_queens.ipynb)
 
