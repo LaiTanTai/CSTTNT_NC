@@ -1,17 +1,29 @@
 ***** Phần Genetic Algorithm for the n-Queens problem với Genetic Algorithm for TSP khá khó nên ai muốn làm thì làm. *****
 
 Tài: [The n-Queens Problem](n_queens.ipynb)
+- taks 1, task 2, task 3
+- Algorithm Convergence, Discussion (Trả lời câu hỏi)
+
+Tú: [The n-Queens Problem](n_queens.ipynb)
+- task 4, task 5, task 6
+- Problem Size Scalability (Trả lời câu hỏi)
 
 2 ví dụ để đọc:
   - [Apply Simple Hill Climbing to a Maze Problem](Maze_Example_LocalSearch.ipynb)
   - The n-Queens Problem - [Speeding up the conflict calculation with JIT compiled code (numba)](n_queens_fast_conflict_calculation_with_numba.ipynb).
 
 Nghĩa: [The Traveling Salesman Problem](traveling_salesman_problem.ipynb)
+- Steepest-ascend Hill Climbing Search
+- Steepest-ascend Hill Climbing Search with Random Restarts
+- Stochastic Hill Climbing
+
+Nguyên : [The Traveling Salesman Problem](traveling_salesman_problem.ipynb)
+- First-choice Hill Climbing
+- Simulated Annealing
+- Compare Performance
 ví dụ để đọc:
 - [Example code for the TSP](traveling_salesman_problem_example_2.ipynb)
 
-Tú & Nguyên: Làm canva + chỉnh docx(miễn cho 2 thằng code).
-
 Deadline:
-Tài & Nghĩa: 23:59 4/10/2025 (dl cho code) 23:59 5/10/2025 (dl cho docx).
-Tú & Nguyên: 23:59 7/10/2025 (dl cả canva + chỉnh docx).
+Code: 23:59 03/10/2025
+Doc + Canva: 23:59 05/10/2025
