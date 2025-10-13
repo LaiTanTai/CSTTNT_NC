@@ -1,29 +1,18 @@
-***** Phần Genetic Algorithm for the n-Queens problem với Genetic Algorithm for TSP khá khó nên ai muốn làm thì làm. *****
+***** LAB-4 *****
 
-Tài: [The n-Queens Problem](n_queens.ipynb)
-- taks 1, task 2, task 3
-- Algorithm Convergence, Discussion (Trả lời câu hỏi)
+Tài: [Adversarial Search: Playing Dots and Boxes](assignment_dots_and_boxes.ipynb)
+- Full-assignments
 
-Tú: [The n-Queens Problem](n_queens.ipynb)
-- task 4, task 5, task 6
-- Problem Size Scalability (Trả lời câu hỏi)
+Tú: [Adversarial Search: Playing "Mean" Connect 4](assignment_mean_connect4.ipynb)
+- task 1 , 2 + sửa word , canva
 
-2 ví dụ để đọc:
-  - [Apply Simple Hill Climbing to a Maze Problem](Maze_Example_LocalSearch.ipynb)
-  - The n-Queens Problem - [Speeding up the conflict calculation with JIT compiled code (numba)](n_queens_fast_conflict_calculation_with_numba.ipynb).
 
-Nghĩa: [The Traveling Salesman Problem](traveling_salesman_problem.ipynb)
-- Steepest-ascend Hill Climbing Search
-- Steepest-ascend Hill Climbing Search with Random Restarts
-- Stochastic Hill Climbing
+Nghĩa: [Adversarial Search: Playing Connect 4)[assignment_connect4.ipynb]
+  - Full-assignments
 
-Nguyên : [The Traveling Salesman Problem](traveling_salesman_problem.ipynb)
-- First-choice Hill Climbing
-- Simulated Annealing
-- Compare Performance
-ví dụ để đọc:
-- [Example code for the TSP](traveling_salesman_problem_example_2.ipynb)
+Nguyên : [Adversarial Search: Playing "Mean" Connect 4](assignment_mean_connect4.ipynb)
+  - task 3,4
 
 Deadline:
-Code: 23:59 03/10/2025
-Doc + Canva: 23:59 05/10/2025
+Code: 23:59 19/10/2025
+Doc + Canva: 23:59 20/10/2025
