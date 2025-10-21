@@ -2,16 +2,20 @@
 
 Tài: [Adversarial Search: Playing Dots and Boxes](assignment_dots_and_boxes.ipynb)
 - Full-assignments
+- tictactoe_monte_carlo_tree_search_restricted.ipynb
 
 Tú: [Adversarial Search: Playing "Mean" Connect 4](assignment_mean_connect4.ipynb)
 - task 1 , 2 + sửa word , canva
+- tictactoe_alpha_beta_tree_search.ipynb, tictactoe_heuristic_alpha_beta_tree_search.ipynb
 
 
 Nghĩa: [Adversarial Search: Playing Connect 4)[assignment_connect4.ipynb]
   - Full-assignments
+  - tictactoe_pure_monte_carlo_search.ipynb
 
 Nguyên : [Adversarial Search: Playing "Mean" Connect 4](assignment_mean_connect4.ipynb)
   - task 3,4
+  - tictactoe_definitions.ipynb, tictactoe_and_or_tree_search.ipynb, tictactoe_interactive.ipynb
 
 Deadline:
 Code: 23:59 19/10/2025
